@@ -14,7 +14,7 @@
 
 - 👨‍💻 Driven by curiosity, I'm always exploring emerging technologies to refine my skills and build better experiences. I'm always constantly learning and evolving.
 
-- 🎓 5° semester of Software Engineering**
+- 🎓 5° semester of Software Engineering
 - 💻 Focus on JavaScript, Java, SQL, HTML, CSS, AWS
 - 🚀 Studying DevOps, AWS, Docker, Terraform, CI/CD, PYTHON, 
 - 🎯 Objective: First position as a "DevOps" or "Fullstack Developer"
