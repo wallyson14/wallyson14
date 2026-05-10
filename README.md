@@ -72,13 +72,19 @@ Engenheiro Backend focado em Java & Spring Boot
 
 <p align="center">
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=wallyson14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=wallyson14&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
   />
   
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallyson14&layout=compact&langs_count=8&theme=tokyonight"
+    width="37%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallyson14&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=wallyson14&theme=github-dark-blue&hide_border=true&background=00000000"
   />
 </p>
 
