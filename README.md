@@ -25,12 +25,19 @@ Engenheiro Backend focado em Java & Spring Boot
 <img width="40%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 💻 Estudante de Engenharia de Software (6º período)
+
 ☕ Focado em Desenvolvimento Backend com Java & Spring Boot
+
 ⚙️ Background em Infraestrutura, Linux, Redes e Observabilidade
+
 ☁️ AWS Student Ambassador
+
 🔭 Atualmente atuando com Monitoramento de Infraestrutura, Virtualização e Ambientes Cloud
+
 🐳 Estudando Arquitetura de Software, Docker, Kubernetes e CI/CD
+
 🎯 Buscando oportunidades como Desenvolvedor Backend Java
+
 📍 São Luís - MA, Brasil
 
 ---
@@ -70,38 +77,40 @@ Engenheiro Backend focado em Java & Spring Boot
 
 # 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api?username=wallyson14&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
-  />
-  
-  <img 
-    width="37%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallyson14&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=wallyson14&theme=github-dark-blue&hide_border=true&background=00000000"
-  />
-</p>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wallyson14&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=161B22&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wallyson14&layout=compact&theme=midnight-purple&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=C9D1D9"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=wallyson14&theme=midnight-purple&hide_border=true&background=161B22&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9"/>
+
+</div>
 
 ---
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=wallyson14&theme=algolia&no-frame=true&row=1&column=6"
-  />
-</p>
 
 # 📈 Gráfico de Atividade
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=wallyson14&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Wallyson Luiz&theme=tokyo-night&hide_border=true&bg_color=161B22&color=58A6FF&line=58A6FF&point=C9D1D9"
     width="95%"
+  />
+</p>
+
+---
+
+# 🏆 Conquistas
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=wallyson14&theme=algolia&no-frame=true&margin-w=15&margin-h=15"
   />
 </p>
 
@@ -114,19 +123,24 @@ Engenheiro Backend focado em Java & Spring Boot
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 
+  &nbsp;&nbsp;
 
   <a href="mailto:wallysonluys@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 
+  &nbsp;&nbsp;
 
   <a href="https://github.com/wallyson14" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="120"/>
+<p align="center">
+  <img 
+    src="https://media.tenor.com/DimzPZMypFcAAAAi/laptop.gif" 
+    width="120"
+  />
 </p>
 
 ---
