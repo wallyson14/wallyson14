@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Wallyson%20Luiz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 <h1 align="center">
 Hey 👋, I'm Wallyson Luiz
 </h1>
@@ -74,9 +78,15 @@ Backend Engineer focused on Java & Spring Boot
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wallyson14&show_icons=true&theme=tokyonight"/>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=wallyson14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallyson14&layout=compact&theme=tokyonight"/>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallyson14&layout=compact&langs_count=8&theme=tokyonight"
+  />
 </p>
 
 ---
@@ -84,32 +94,39 @@ Backend Engineer focused on Java & Spring Boot
 # 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wallyson14&theme=react-dark"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=wallyson14&theme=tokyo-night&hide_border=true"
+    width="95%"
+  />
 </p>
 
 ---
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Connect With Me
+## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="30px"> Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/wallysonluiz" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/wallysonluiz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  
- 
-  
-  <a href="mailto:wallysonluys@gmail.com" target="_blank" title="Gmail">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+
+  &nbsp;&nbsp;
+
+  <a href="mailto:wallysonluys@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
- 
-  
-  <a href="https://github.com/wallyson14" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/wallyson14" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="120"/>
+<p align="center">
+  <img 
+    src="https://media.tenor.com/DimzPZMypFcAAAAi/laptop.gif" 
+    width="120"
+  />
 </p>
 
 ---
