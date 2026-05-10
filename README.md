@@ -184,6 +184,12 @@ Zabbix • Linux • Docker • Grafana
   </a>
 </p>
 
+<p align="right">
+  <img 
+    src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif"
+    width="140"
+  />
+</p>
 ---
 
 # 🚀 Tecnologias em Destaque
