@@ -25,19 +25,12 @@ Engenheiro Backend focado em Java & Spring Boot
 <img width="40%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 💻 Estudante de Engenharia de Software (6º período)
-
 ☕ Focado em Desenvolvimento Backend com Java & Spring Boot
-
 ⚙️ Background em Infraestrutura, Linux, Redes e Observabilidade
-
 ☁️ AWS Student Ambassador
-
 🔭 Atualmente atuando com Monitoramento de Infraestrutura, Virtualização e Ambientes Cloud
-
 🐳 Estudando Arquitetura de Software, Docker, Kubernetes e CI/CD
-
 🎯 Buscando oportunidades como Desenvolvedor Backend Java
-
 📍 São Luís - MA, Brasil
 
 ---
@@ -122,14 +115,12 @@ Engenheiro Backend focado em Java & Spring Boot
   <a href="https://linkedin.com/in/wallysonluiz" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-
-  &nbsp;&nbsp;
+ 
 
   <a href="mailto:wallysonluys@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 
-  &nbsp;&nbsp;
 
   <a href="https://github.com/wallyson14" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
