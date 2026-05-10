@@ -90,6 +90,7 @@ Java • SQL • HTML • CSS
 - Relatórios e métricas
 - Organização de fluxo clínico
 
+🔗 Repositório: [Adicionar Link Aqui]
 
 ---
 
@@ -106,6 +107,7 @@ Go (Golang) • PostgreSQL • APIs REST
 - Persistência em banco de dados
 - Estruturação backend RESTful
 
+🔗 Repositório: [Adicionar Link Aqui]
 
 ---
 
@@ -121,6 +123,97 @@ Zabbix • Linux • Docker • Grafana
 - Alertas e métricas
 - Diagnóstico de disponibilidade
 
+🔗 Repositório: [Adicionar Link Aqui]
+
+---
+
+# 💼 Experiência Profissional
+
+## 🏛 Prefeitura de São Luís
+### Estagiário em Infraestrutura, Observabilidade e Backend
+📍 São Luís - MA | 🗓 Mai 2025 — Atualmente
+
+### 🖥 Infraestrutura & Redes
+- Gestão de ativos de TI utilizando GLPI
+- Monitoramento de disponibilidade e performance de links e serviços
+- Diagnóstico de conectividade com `ping`, `tracert` e `nslookup`
+- Configuração de dashboards e templates no Zabbix para métricas críticas
+
+### 🔒 Cyber Security & SOC
+- Monitoramento contínuo da infraestrutura via Zabbix como primeira linha de defesa do SOC
+- Triagem de logs e alertas de segurança para identificação de atividades suspeitas
+- Hardening de firewall FortiGate e organização de regras de segurança
+- Execução de backups de configurações para recuperação de desastres
+
+### 📊 Governança & Processos
+- Documentação de políticas e procedimentos técnicos
+- Aplicação de boas práticas ITIL para gestão de serviços
+- Padronização de processos operacionais e documentação técnica
+
+### 🛠 Tecnologias & Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/GLPI-0A84FF?style=for-the-badge"/>
+</p>
+
+---
+
+## ☁️ Amazon Web Services (AWS)
+### AWS Student Ambassador 2026
+📍 São Luís - MA | 🗓 Abr 2026 — Atualmente
+
+Programa global da AWS voltado para estudantes com potencial técnico e liderança na comunidade cloud.
+
+### 🚀 Atuação
+- Liderança de iniciativas de Cloud e DevOps na universidade
+- Compartilhamento de conteúdos práticos sobre AWS e infraestrutura
+- Organização de workshops e ações educacionais
+- Apoio a estudantes em aprendizado cloud
+
+### 🌎 Impacto
+- Fortalecimento da comunidade cloud acadêmica
+- Disseminação de boas práticas em computação em nuvem
+- Aproximação entre teoria acadêmica e mercado
+
+### 🛠 Tecnologias
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes" />
+</p>
+
+---
+
+# 🏆 Certificações
+
+<div align="center">
+
+<a href="COLE_AQUI_LINK_CERTIFICADO_OCI_ARCHITECT">
+  <img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure_Architect_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</a>
+
+<a href="COLE_AQUI_LINK_CERTIFICADO_OCI_FOUNDATIONS">
+  <img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure_Foundations_Associate-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📚 Estudos & Especializações
+
+- ☕ Java & Spring Boot
+- 🔗 APIs REST
+- 🐳 Docker & Kubernetes
+- ☁️ Cloud Computing
+- 🐧 Linux & Observabilidade
+- 🏗 Arquitetura de Software
+- ⚙️ CI/CD & DevOps
 
 ---
 
