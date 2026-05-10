@@ -7,31 +7,27 @@ Olá 👋, eu sou Wallyson Luiz
 </h1>
 
 <h3 align="center">
-Engenheiro Backend focado em Java & Spring Boot
+Backend Developer | Java & Spring Boot
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&pause=1000&width=700&lines=Desenvolvedor+Backend+Java;Spring+Boot+%7C+APIs+REST;Background+em+Cloud+e+Infraestrutura;Docker+%7C+AWS+%7C+Linux;Sempre+aprendendo+e+construindo" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&pause=1000&width=700&lines=Backend+Developer+Java;Spring+Boot+%7C+APIs+REST;Cloud+%26+Infrastructure+Background;Docker+%7C+AWS+%7C+Linux;Sempre+aprendendo+e+construindo" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
 
 # 🚀 Sobre Mim
 
 <img width="40%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-💻 Estudante de Engenharia de Software (6º período)
-☕ Focado em Desenvolvimento Backend com Java & Spring Boot
-⚙️ Background em Infraestrutura, Linux, Redes e Observabilidade
-☁️ AWS Student Ambassador
-🔭 Atualmente atuando com Monitoramento de Infraestrutura, Virtualização e Ambientes Cloud
-🐳 Estudando Arquitetura de Software, Docker, Kubernetes e CI/CD
-🎯 Buscando oportunidades como Desenvolvedor Backend Java
-📍 São Luís - MA, Brasil
+💻 Estudante de Engenharia de Software (6º período)  
+☕ Focado em Desenvolvimento Backend com Java & Spring Boot  
+⚙️ Background em Infraestrutura, Linux, Redes e Observabilidade  
+☁️ AWS Student Ambassador  
+🔭 Atualmente atuando com Monitoramento de Infraestrutura, Virtualização e Ambientes Cloud  
+🐳 Estudando Arquitetura de Software, Docker, Kubernetes e CI/CD  
+🎯 Buscando oportunidades como Desenvolvedor Backend Java  
+📍 São Luís - MA, Brasil  
 
 ---
 
@@ -39,7 +35,7 @@ Engenheiro Backend focado em Java & Spring Boot
 
 ### 💻 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,go,nodejs,js" />
 </p>
 
 ### 🗄 Banco de Dados
@@ -65,6 +61,69 @@ Engenheiro Backend focado em Java & Spring Boot
 - Evolução em arquitetura de software e clean code
 - Aprofundamento em Cloud & DevOps
 - Desenvolvimento de projetos backend reais
+- Integração entre backend, infraestrutura e observabilidade
+
+---
+
+# 🚧 Atualmente Construindo
+
+- API REST com Java & Spring Boot
+- Sistema de autenticação JWT
+- Integração PostgreSQL + JPA
+- Deploy com Docker e Linux
+- Monitoramento e observabilidade de aplicações
+
+---
+
+# 🚀 Projetos em Destaque
+
+## 🔹 Sistema de Gerenciamento de Clínica
+📌 Sistema desenvolvido para gerenciamento de pacientes, agendamentos e prontuários eletrônicos.
+
+### 🛠 Stack:
+Java • SQL • HTML • CSS
+
+### 🚀 Funcionalidades:
+- Gestão de pacientes
+- Controle de agendamentos
+- Prontuários eletrônicos
+- Relatórios e métricas
+- Organização de fluxo clínico
+
+🔗 Repositório: [Adicionar Link Aqui]
+
+---
+
+## 🔹 Sistema de Controle de Estoque
+📌 Projeto backend desenvolvido em Go para gerenciamento e controle de estoque.
+
+### 🛠 Stack:
+Go (Golang) • PostgreSQL • APIs REST
+
+### 🚀 Funcionalidades:
+- Cadastro de produtos
+- Controle de estoque
+- Entrada e saída de itens
+- Persistência em banco de dados
+- Estruturação backend RESTful
+
+🔗 Repositório: [Adicionar Link Aqui]
+
+---
+
+## 🔹 Infrastructure Monitoring Lab
+📌 Ambiente de monitoramento e observabilidade utilizando ferramentas de infraestrutura e redes.
+
+### 🛠 Stack:
+Zabbix • Linux • Docker • Grafana
+
+### 🚀 Funcionalidades:
+- Monitoramento de hosts e serviços
+- Dashboards de observabilidade
+- Alertas e métricas
+- Diagnóstico de disponibilidade
+
+🔗 Repositório: [Adicionar Link Aqui]
 
 ---
 
@@ -109,29 +168,20 @@ Engenheiro Backend focado em Java & Spring Boot
 
 ---
 
-## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="30px"> Conecte-se Comigo
+## 🤝 Conecte-se Comigo
 
 <p align="center">
   <a href="https://linkedin.com/in/wallysonluiz" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
- 
 
   <a href="mailto:wallysonluys@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 
-
   <a href="https://github.com/wallyson14" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-</p>
-
-<p align="right">
-  <img 
-    src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" 
-    width="140"
-  />
 </p>
 
 ---
@@ -139,7 +189,7 @@ Engenheiro Backend focado em Java & Spring Boot
 # 🚀 Tecnologias em Destaque
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   
@@ -148,14 +198,12 @@ Engenheiro Backend focado em Java & Spring Boot
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
   
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
 ---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
