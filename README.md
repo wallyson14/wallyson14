@@ -190,7 +190,7 @@ Zabbix • Linux • Docker • Grafana
     width="140"
   />
 </p>
----
+
 
 # 🚀 Tecnologias em Destaque
 
