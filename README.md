@@ -90,7 +90,6 @@ Java • SQL • HTML • CSS
 - Relatórios e métricas
 - Organização de fluxo clínico
 
-🔗 Repositório: [Adicionar Link Aqui]
 
 ---
 
@@ -107,7 +106,6 @@ Go (Golang) • PostgreSQL • APIs REST
 - Persistência em banco de dados
 - Estruturação backend RESTful
 
-🔗 Repositório: [Adicionar Link Aqui]
 
 ---
 
@@ -123,7 +121,6 @@ Zabbix • Linux • Docker • Grafana
 - Alertas e métricas
 - Diagnóstico de disponibilidade
 
-🔗 Repositório: [Adicionar Link Aqui]
 
 ---
 
@@ -191,6 +188,7 @@ Zabbix • Linux • Docker • Grafana
   />
 </p>
 
+---
 
 # 🚀 Tecnologias em Destaque
 
