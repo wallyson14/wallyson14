@@ -99,7 +99,7 @@ Engenheiro Backend focado em Java & Spring Boot
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Wallyson Luiz&theme=tokyo-night&hide_border=true&bg_color=161B22&color=58A6FF&line=58A6FF&point=C9D1D9"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=wallyson14&theme=tokyo-night&hide_border=true&bg_color=161B22&color=58A6FF&line=58A6FF&point=C9D1D9"
     width="95%"
   />
 </p>
@@ -136,10 +136,10 @@ Engenheiro Backend focado em Java & Spring Boot
   </a>
 </p>
 
-<p align="center">
+<p align="right">
   <img 
-    src="https://media.tenor.com/DimzPZMypFcAAAAi/laptop.gif" 
-    width="120"
+    src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" 
+    width="140"
   />
 </p>
 
