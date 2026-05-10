@@ -90,6 +90,12 @@ Engenheiro Backend focado em Java & Spring Boot
 
 ---
 
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=wallyson14&theme=algolia&no-frame=true&row=1&column=6"
+  />
+</p>
+
 # 📈 Gráfico de Atividade
 
 <p align="center">
