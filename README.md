@@ -145,7 +145,7 @@ Programa global da AWS voltado para estudantes com potencial técnico e lideran�
 
 # 🚀 Projetos em Destaque
 
-## 🔹 [Korp_Teste_Wallysonluiz](https://github.com/wallyson14/Korp_Teste_Wallysonluiz)
+## 🔹 [Sistema de Notas Fiscais (Microsserviços)](https://github.com/wallyson14/sistema-notas-fiscais-microsservicos)
 📌 Sistema de gestão de notas fiscais com arquitetura de microsserviços, orquestrado via Docker Compose (dois serviços de backend + frontend + banco).
 
 **Stack:** Docker • Docker Compose • Go • TypeScript
@@ -159,14 +159,14 @@ Programa global da AWS voltado para estudantes com potencial técnico e lideran�
 
 ---
 
-## 🔹 [Ecomerce-Supabase](https://github.com/wallyson14/Ecomerce-Supabase)
+## 🔹 [Ecommerce Supabase](https://github.com/wallyson14/ecommerce-supabase)
 📌 Backend de e-commerce sobre Supabase/Postgres: schema, RLS, views e Edge Functions serverless.
 
 **Stack:** PostgreSQL • PL/pgSQL • Supabase Edge Functions
 
 ---
 
-## 🔹 [VacinaKids](https://github.com/wallyson14/VacinaKids-)
+## 🔹 [VacinaKids](https://github.com/wallyson14/vacina-kids)
 📌 App híbrido para acompanhamento da jornada de vacinação infantil — desafio técnico de estágio Frontend.
 
 **Stack:** Ionic • Angular • TypeScript
