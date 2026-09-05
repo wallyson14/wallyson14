@@ -7,7 +7,7 @@ Olá 👋, eu sou Wallyson Luiz
 </h1>
 
 <h3 align="center">
-DevOps & Cloud Engineer em formação | Infra, Observabilidade & Full Stack
+DevOps & Cloud Engineer | Infra, Observabilidade & Full Stack
 </h3>
 
 <p align="center">
