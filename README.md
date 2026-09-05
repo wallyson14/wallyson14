@@ -7,11 +7,11 @@ Olá 👋, eu sou Wallyson Luiz
 </h1>
 
 <h3 align="center">
-Backend Developer em formação | Java & Spring Boot | Cloud & Infra
+DevOps & Cloud Engineer em formação | Infra, Observabilidade & Full Stack
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&pause=1000&width=700&lines=Backend+Developer+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+APIs+REST;Cloud+%26+Infrastructure+Background;Docker+%7C+AWS+%7C+Linux;Sempre+aprendendo+e+construindo" />
+  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&pause=1000&width=700&lines=DevOps+%26+Cloud+Engineer+em+forma%C3%A7%C3%A3o;AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;Infra%2C+Redes+%26+Observabilidade;Background+em+desenvolvimento+Full+Stack;Sempre+aprendendo+e+construindo" />
 </p>
 
 ---
@@ -19,17 +19,30 @@ Backend Developer em formação | Java & Spring Boot | Cloud & Infra
 # 🚀 Sobre Mim
 
 💻 Estudante de Engenharia de Software (6º período)
-☕ Evoluindo para Desenvolvimento Backend com Java & Spring Boot
 ⚙️ Background prático em Infraestrutura, Linux, Redes e Observabilidade
 ☁️ AWS Student Ambassador
-🔭 Atualmente atuando com Monitoramento de Infraestrutura, Virtualização e Ambientes Cloud
-🐳 Estudando Arquitetura de Software, Docker, Kubernetes e CI/CD
-🎯 Buscando oportunidades como Desenvolvedor Backend
+🔭 Atuando com Monitoramento de Infraestrutura, Virtualização e Ambientes Cloud
+🐳 Estudando Docker, Kubernetes, Terraform e CI/CD
+👨‍💻 Background em desenvolvimento Full Stack (Java, Go, TypeScript) que apoia uma visão end-to-end de infra + aplicação
+🎯 Buscando oportunidades como DevOps / Cloud Engineer
 📍 São Luís - MA, Brasil
 
 ---
 
 # 🛠 Stack Tecnológica
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,terraform,githubactions" />
+</p>
+
+### 📡 Observabilidade & Redes
+<p>
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GLPI-0A84FF?style=for-the-badge"/>
+</p>
 
 ### 💻 Linguagens & Backend
 <p>
@@ -41,11 +54,6 @@ Backend Developer em formação | Java & Spring Boot | Cloud & Infra
   <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
 </p>
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,terraform" />
-</p>
-
 ### ⚙️ Ferramentas
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -55,51 +63,11 @@ Backend Developer em formação | Java & Spring Boot | Cloud & Infra
 
 # 📌 Foco Atual
 
-- Construção de APIs REST com Java & Spring Boot
-- Evolução em arquitetura de software e clean code
-- Aprofundamento em Cloud & DevOps
-- Integração entre backend, infraestrutura e observabilidade
-
----
-
-# 🚀 Projetos em Destaque
-
-## 🔹 [Korp_Teste_Wallysonluiz](https://github.com/wallyson14/Korp_Teste_Wallysonluiz)
-📌 Sistema de gestão de notas fiscais com arquitetura de microsserviços — desafio técnico full stack.
-
-**Stack:** Go (backend) • TypeScript • Docker • Docker Compose
-
----
-
-## 🔹 [Ecomerce-Supabase](https://github.com/wallyson14/Ecomerce-Supabase)
-📌 Backend de e-commerce construído sobre Supabase/Postgres: schema relacional, políticas de RLS, views e Edge Functions para exportação de pedidos e confirmação por e-mail.
-
-**Stack:** PostgreSQL • PL/pgSQL • Supabase Edge Functions • Row-Level Security
-
----
-
-## 🔹 [VacinaKids](https://github.com/wallyson14/VacinaKids-)
-📌 App híbrido para acompanhamento da jornada de vacinação infantil — desafio técnico de estágio Frontend.
-
-**Stack:** Ionic • Angular • TypeScript
-
----
-
-## 🔹 [gerador-planos-aula](https://github.com/wallyson14/gerador-planos-aula)
-📌 Gerador de planos de aula alinhados à BNCC usando a Gemini API, com persistência em Supabase.
-
-**Stack:** JavaScript • Gemini API • Supabase • PL/pgSQL
-
----
-
-## 🔹 [medicoes-mob](https://github.com/wallyson14/medicoes-mob)
-📌 Ferramenta de auditoria mensal de links/hosts usada no dia a dia da equipe técnica: compara planilhas mês a mês e gera relatório ajustado.
-
-**Stack:** JavaScript • HTML • CSS
-
----
-
-> 🔒 Também desenvolvi um sistema full-stack de gestão para clínica de reabilitação infantil (Go + React/TS, multiusuário, tempo real) em repositório privado por acordo de confidencialidade — disponibilizo o código sob demanda.
+- Infraestrutura como Código (Terraform)
+- CI/CD com GitHub Actions
+- Orquestração de containers com Docker e Kubernetes
+- Observabilidade e monitoramento (Zabbix, Grafana)
+- Cloud computing (AWS, OCI)
 
 ---
 
@@ -158,6 +126,40 @@ Programa global da AWS voltado para estudantes com potencial técnico e lideran�
 
 ---
 
+# 🚀 Projetos em Destaque
+
+## 🔹 [Korp_Teste_Wallysonluiz](https://github.com/wallyson14/Korp_Teste_Wallysonluiz)
+📌 Sistema de gestão de notas fiscais com arquitetura de microsserviços, orquestrado via Docker Compose (dois serviços de backend + frontend + banco).
+
+**Stack:** Docker • Docker Compose • Go • TypeScript
+
+---
+
+## 🔹 [Plataforma-estudos-Devops](https://github.com/wallyson14/Plataforma-estudos-Devops)
+📌 Tracker pessoal para acompanhar meu roadmap de estudos em DevOps, do nível iniciante ao pleno.
+
+**Stack:** JavaScript • HTML • CSS
+
+---
+
+## 🔹 [Ecomerce-Supabase](https://github.com/wallyson14/Ecomerce-Supabase)
+📌 Backend de e-commerce sobre Supabase/Postgres: schema, RLS, views e Edge Functions serverless.
+
+**Stack:** PostgreSQL • PL/pgSQL • Supabase Edge Functions
+
+---
+
+## 🔹 [VacinaKids](https://github.com/wallyson14/VacinaKids-)
+📌 App híbrido para acompanhamento da jornada de vacinação infantil — desafio técnico de estágio Frontend.
+
+**Stack:** Ionic • Angular • TypeScript
+
+---
+
+> 🔒 Também desenvolvi um sistema full-stack de gestão para clínica de reabilitação infantil (Go + React/TS, multiusuário, tempo real) em repositório privado por acordo de confidencialidade — disponibilizo o código sob demanda.
+
+---
+
 # 🏆 Certificações
 
 <div align="center">
@@ -173,13 +175,13 @@ Programa global da AWS voltado para estudantes com potencial técnico e lideran�
 
 # 📚 Estudos & Especializações
 
-- ☕ Java & Spring Boot
-- 🔗 APIs REST
+- ☁️ Cloud Computing (AWS, OCI)
 - 🐳 Docker & Kubernetes
-- ☁️ Cloud Computing
-- 🐧 Linux & Observabilidade
-- 🏗 Arquitetura de Software
-- ⚙️ CI/CD & DevOps
+- 🏗 Infraestrutura como Código (Terraform)
+- ⚙️ CI/CD
+- 🐧 Linux & Observabilidade (Zabbix, Grafana)
+- ☕ Java & Spring Boot (complementar)
+- 🔗 APIs REST
 
 ---
 
