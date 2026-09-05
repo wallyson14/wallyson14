@@ -107,6 +107,22 @@ DevOps & Cloud Engineer | Infra, Observabilidade & Full Stack
 
 ---
 
+## 💻 Cyrrus
+### Estagiário de Desenvolvimento (Frontend/Backend)
+📍 Remoto | 🗓 Fev 2026
+
+- Atuação em produtos de software para clientes nacionais e internacionais (aplicativos, backoffice administrativo e Functions/backend), com stack baseada em TypeScript, Angular, Ionic e Firebase (Storage e Functions)
+- Participação no fluxo completo de entrega: refinamento técnico, planejamento de implementação, testes orientados a comportamento (BDD) e code review antes de cada entrega
+- Aplicação de boas práticas de Clean Code, DRY, SOLID, KISS e YAGNI no dia a dia de desenvolvimento
+- Reconhecido pela afinidade com lógica de backend e regras de negócio, sendo direcionado para atividades com maior contato com modelagem de dados, Functions e arquitetura de fluxos
+
+### 🛠 Tecnologias
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,angular,ionic,firebase" />
+</p>
+
+---
+
 ## ☁️ Amazon Web Services (AWS)
 ### AWS Student Ambassador 2026
 📍 São Luís - MA | 🗓 Abr 2026
