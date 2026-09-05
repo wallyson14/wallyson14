@@ -18,7 +18,7 @@ DevOps & Cloud Engineer | Infra, Observabilidade & Full Stack
 
 # 🚀 Sobre Mim
 
-💻 Estudante de Engenharia de Software (6º período)
+💻 Estudante de Engenharia de Software (7º período)
 ⚙️ Background prático em Infraestrutura, Linux, Redes e Observabilidade
 ☁️ AWS Student Ambassador
 🔭 Atuando com Monitoramento de Infraestrutura, Virtualização e Ambientes Cloud
@@ -74,8 +74,8 @@ DevOps & Cloud Engineer | Infra, Observabilidade & Full Stack
 # 💼 Experiência Profissional
 
 ## 🏛 Prefeitura de São Luís
-### Estagiário em Infraestrutura, Observabilidade e Backend
-📍 São Luís - MA | 🗓 Mai 2025 — Atualmente
+### Estagiário em Infraestrutura / DevOps, Observabilidade 
+📍 São Luís - MA | 🗓 Mai 2025
 
 ### 🖥 Infraestrutura & Redes
 - Gestão de ativos de TI utilizando GLPI
@@ -109,7 +109,7 @@ DevOps & Cloud Engineer | Infra, Observabilidade & Full Stack
 
 ## ☁️ Amazon Web Services (AWS)
 ### AWS Student Ambassador 2026
-📍 São Luís - MA | 🗓 Abr 2026 — Atualmente
+📍 São Luís - MA | 🗓 Abr 2026
 
 Programa global da AWS voltado para estudantes com potencial técnico e liderança na comunidade cloud.
 
