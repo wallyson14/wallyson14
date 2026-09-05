@@ -118,7 +118,8 @@ DevOps & Cloud Engineer | Infra, Observabilidade & Full Stack
 
 ### 🛠 Tecnologias
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,angular,ionic,firebase" />
+  <img src="https://skillicons.dev/icons?i=ts,angular,firebase" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
 </p>
 
 ---
